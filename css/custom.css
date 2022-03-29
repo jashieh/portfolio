@@ -1,0 +1,26 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.profile-img {
+  height: 160px;
+}
+
+.p-t-25 {
+  padding-top: 2.5rem !important;
+}
+
+@media (min-width: 991.98px) {
+  .add-padding-left {
+    padding-left: 110px !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .text-center-sm {
+    text-align: center !important;
+  }
+}
